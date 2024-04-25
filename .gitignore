@@ -1,0 +1,9 @@
+*.test
+*.out
+go.work
+
+.idea
+/env.*.json
+.env
+/env.dev.json
+/env.prod.json
